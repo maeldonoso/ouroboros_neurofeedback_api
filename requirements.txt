@@ -1,0 +1,7 @@
+django
+djangorestframework
+dj-rest-auth
+django-allauth
+numpy
+yasa
+psycopg2-binary
